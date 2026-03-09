@@ -1,9 +1,3 @@
-## bem vindo ao meu perfil 
+# Nexus Social Project
 
-Meu nome é Vitor Hugo
-
-- Estou estudando na **Alura**
-
-## Contato 📫
-
-- vitorhugobaptistademorais@gmail.com
+This is a full-stack project consisting of a Node.js backend, a PostgreSQL database, and a Flutter frontend.
